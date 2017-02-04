@@ -1,0 +1,6 @@
+*.pyc
+.idea/
+*.swp
+.ds_store
+env/
+*.log

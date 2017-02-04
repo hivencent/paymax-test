@@ -1,0 +1,1 @@
+# -*- coding: utf-8 -*-__author__ = 'jinlong'import sysreload(sys)sys.setdefaultencoding("utf-8")sys.path.append("../../")from website.util.utility import *UTILITY.query_merchant()
